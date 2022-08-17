@@ -176,3 +176,5 @@ connection.commit()
 print('record is deleted')
 connection.close()
 ```
+
+Cr. : https://www.youtube.com/watch?v=d1atQKLFHgY
